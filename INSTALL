@@ -1,0 +1,9 @@
+Building Staxcoin
+
+See doc/readme-qt.rst for instructions on building Staxcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Staxcoin.
+
+See doc/build-*.txt for instructions on building staxcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Staxcoin.
